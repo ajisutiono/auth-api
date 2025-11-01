@@ -1,0 +1,4 @@
+.env
+node_modules/
+forum-api-server.pem
+.test.env
